@@ -20,7 +20,7 @@ As of 2024, I am preparing to take the `Linux Foundation Certified Associate (LF
 | [7](https://github.com/Kwangsa19/Ketmanto-Cybersecurity-Portfolio/tree/main/7%20-%20IDS%20%26%20SIEM) - IDS & SIEM | `Intrusion Detection System (IDS): Suricata`, `Security Information and Event Management (SIEM): Chronicle, Splunk` |
 | [8](https://github.com/Kwangsa19/Ketmanto-Cybersecurity-Portfolio/tree/main/8%20-%20Automation%20with%20Python) - Automation with Python | `Computer Programming`, `Python Programming`, `Coding`, `PEP 8 Style Guide`| 
 
-### Tools 
+## Tools 
 Several tools that I used: 
 Google Workspace (Drive, Docs, Sheets, Slides) | Markdown Language | Tcpdump | Wireshark | Linux OS | SQL | Chronicle | Splunk | Suricata | Python | JAVA | Volatile | Virtual Machine | FTK Imager | Autopsy | RedLine. 
 
