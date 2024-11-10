@@ -22,37 +22,18 @@ As of 2024, I am preparing to take the `Linux Foundation Certified Associate (LF
 
 ### Tools 
 Several tools that I used: 
-* Google Workspace (Drive, Docs, Sheets, Slides)
-* Markdown Language 
-* Tcpdump
-* Wireshark
-* Linux OS
-* SQL
-* Chronicle
-* Splunk
-* Suricata
-* Python 
-## Tools
-[Provide tools and break them down into categories. Use ChatGPT to help create the link]
-[Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
+Google Workspace (Drive, Docs, Sheets, Slides) | Markdown Language | Tcpdump | Wireshark | Linux OS | SQL | Chronicle | Splunk | Suricata | Python | JAVA | Volatile | Virtual Machine | FTK Imager | Autopsy | RedLine. 
 
-### Network
-<div>
-@@ -46,9 +46,8 @@ My journey in computer science has led me to develop a passion for cybersecurity
-</div>
 
 ## Certifications
-[Provide certifications that you have obtained. Use ChatGPT to help create the link]
-[Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
-<div>
-<img src="https://img.shields.io/badge/-CISSP-0052CC?style=for-the-badge&logo=ISC2&logoColor=white" />
-<img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-@@ -57,6 +56,5 @@ My journey in computer science has led me to develop a passion for cybersecurity
-</div>
+CompTIA Security+ (Expected 12/23)
+Google Cybersecurity Professional Certification
+FEMA National Incident Management System (NIMS): ICS-100
+Qualys Vulnerability Management 
+
 
 ## Projects
+- Digital Forensics Incestigation
 - <a href="https://github.com/Test-MyDFIR/Detection-Lab/tree/main">Detection Lab</a>
 - Detection Lab
 - SOC Automation Project
