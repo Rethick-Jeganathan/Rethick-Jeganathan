@@ -13,7 +13,7 @@ As of 2024, I am preparing to take the `Linux Foundation Certified Associate (LF
 | :-----------------------------------|:---:|
 | [1] - Cybersecurity | `INFOSEC`, `NIST Risk Management Framework`, `Security Audits`, `NIST Cybersecurity Framework`, `Incident Response Playbooks`, `CISSP`, `CIA triad`, `Wireshark` `Authentication`, ` Vulnerability assessment`, `Cryptography`, `Asset Classification`, `Threat Modelling Analysis`,`Incident Lifecycle`, `Incident Journal`,`Intrusion Detection System (IDS): Suricata`, `Security Information and Event Management (SIEM): Chronicle, Splunk` ||
 | [2] - Linux & SQL | `Command-line Interface`, `SQL`, `Linux`, `Bash` | 
-| [3](https://github.com/Kwangsa19/Ketmanto-Cybersecurity-Portfolio/tree/main/8%20-%20Automation%20with%20Python) - Computer Programming | `JAVA`, `Python Programming`, `C++`, `C programming`| 
+| [3] - Computer Programming | `JAVA`, `Python Programming`, `C++`, `C programming`| 
 | [4] - Windows Server Management | `Administration`, `Configuration`, `Troubleshooting`, `Security`, `Networking`, `Monitoring`| 
 | [5] - Networking | `CCNA `, `CCNP `,`Routing`,`Switching`,`Subnetting`,`IPv4/IPv6`,`Troubleshooting`,`Network Security`,`TCP/IP model`,  `Network Architecture`, `Network Communication`, `Security Hardening`, `Network Security`, `Cloud Networks` |
 | [6] - Cloud Computing | `AWS`,`Compute`,`Storage`,`Networking`,`Security`,`Identity Management`,`Databases`,`Automation`,`Monitoring`,`Serverless`,`DevOps`,`EC2`,`S3`,`Lambda`,`VPC`,`IAM`,`RDS`,`Elastic Load Balancing`,`CloudFormation`,`CloudWatch`,`Elastic Beanstalk`,`EKS`,`ECS`,`SQS`,`SNS`,`Route 53`,`Auto Scaling`,`Data Migration`,`Cost Management`,`Compliance`| 
@@ -33,9 +33,3 @@ Google Workspace (Drive, Docs, Sheets, Slides) | Markdown Language | Tcpdump | W
   - Qualys Vulnerability Management 
 
 
-## Projects
-- Digital Forensics Investigation
-- <a href="https://github.com/Test-MyDFIR/Detection-Lab/tree/main">Detection Lab</a>
-- Detection Lab
-- SOC Automation Project
-- Test Project
