@@ -27,9 +27,8 @@ Google Workspace (Drive, Docs, Sheets, Slides) | Markdown Language | Tcpdump | W
 
 
 ## Certifications
-  - CompTIA Security+ (Expected)
+  - CompTIA Security+ 
   - Google Cybersecurity Professional Certification
-  - FEMA National Incident Management System (NIMS): ICS-100
-  - Qualys Vulnerability Management 
+
 
 
